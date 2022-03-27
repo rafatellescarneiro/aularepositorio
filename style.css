@@ -1,0 +1,22 @@
+*{
+    width: auto;
+    margin: 0;
+    padding-left: 0;
+    text-align: center;
+}
+
+header{
+    background-color: rgb(150, 149, 149);
+}
+
+p{
+    margin-left: 450px;
+    width: 450px;
+    height: 450px;
+    border: 1px solid grey;
+    border-radius: 350px;
+    box-shadow: 1px 3px 3px;
+    text-align: center;
+    color: blue;
+    background-color: cornflowerblue;
+}
